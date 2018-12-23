@@ -1,0 +1,294 @@
+
+
+@font-face {
+    font-family: 'formula-light';
+    src: url('../fonts/formula-light.woff');
+}
+
+@font-face {
+    font-family: 'formula-light';
+    src: url('../fonts/formula-light.html');
+}
+
+@font-face {
+    font-family: 'formula-light';
+    src: url('../fonts/formula-light.ttf');
+}
+
+
+@font-face {
+    font-family: 'formula-light';
+    src: url('../fonts/formula-light.svg');
+}
+
+
+
+.dentalHeading{
+	font-family:'formula-light';
+	font-size:2.8em;
+	letter-spacing:.02em;
+	color:#8eb706;
+}
+
+
+
+.dentalBox{
+	width:100%;
+	padding:25px;
+	margin-bottom:11px;
+	margin-top:10px;
+}
+
+.dentalBox ul li a{
+	font-size:1em;
+	color:#231f20;
+	text-align:left;
+	letter-spacing:.02em;
+	line-height:35px;
+}
+
+.dentalBox ul{
+
+    list-style-image:url(../images/leaf.png);
+	
+
+}
+
+.dentalBox h2{
+	font-family:'formula-light';
+	font-size:1.4em;
+	color:#fff;
+	text-align:left;
+	letter-spacing:.02em;
+}
+
+
+
+.dentalBox p{
+	color:#fff;
+	text-align:left;
+}
+
+
+.dentalBox2{
+	border:#cfcfcf solid 1px;
+	width:100%;
+	padding:17px;
+	margin-bottom:10px;
+	margin-top:10px;
+	height:auto;
+	overflow:hidden;
+}
+.dentalBox2 h2{
+	font-family:'formula-light';
+	font-size:1.8em;
+	color:#383838;
+	text-align:left;
+	letter-spacing:.02em;
+}
+
+
+
+.dentalBox2 p{
+	color:#000;
+	text-align:left;
+}
+
+
+.dentalBox3{
+	border:#848484 solid 1px;
+	width:100%;
+	padding:9px;
+	margin-bottom:10px;
+	margin-top:10px;
+	height:auto;
+	overflow:hidden;
+}
+.dentalBox3 h2{
+	font-family:'formula-light';
+	font-size:1.8em;
+	color:#383838;
+	text-align:left;
+	letter-spacing:.02em;
+}
+
+
+
+.dentalBox3 p{
+	color:#000;
+	text-align:left;
+}
+
+
+.hspIcon{
+	margin-right:10px;
+}
+
+.dental
+{
+	background:url(../images/parallax/dental.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	margin-top:50px;
+}
+
+
+.dental2
+{
+	background:url(../images/parallax/dental2.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	margin-top:50px;
+}
+
+
+.dparalax h2{
+	font-family:'formula-light';
+	font-size:2.2em;
+	color:#146d38;
+	text-align:left;
+	letter-spacing:.02em;
+	margin-top:30px;
+	
+}
+
+
+.dparalax p{
+	color:#000;
+	text-align:left;
+}
+
+.timer2{
+	font-family:'formula-light';
+	font-size:2.2em;
+	color:#000;
+}
+
+.topGap{
+	margin-top:7px;
+}
+
+@media (width:320px)
+{
+.hspIcon{
+	display:none;
+}
+.dTestiBox{
+	width:100%;
+}
+.dentalBox2{
+	padding:0px;
+}
+}
+
+@media (width:360px)
+{
+.hspIcon{
+	display:none;
+}
+.dTestiBox{
+	width:100%;
+}
+.dentalBox2{
+	padding:0px;
+}
+}
+
+@media (width:375px)
+{
+.hspIcon{
+	display:none;
+}
+.dTestiBox{
+	width:100%;
+}
+.dentalBox2{
+	padding:0px;
+}
+}
+
+@media (width:768px)
+{
+
+.dentalHight{
+height:293px;
+}
+
+.dentalHight3{
+height:500px;
+
+}
+
+
+}
+
+
+@media (width:1024px)
+{
+
+.dentalHight{
+height:272px;
+}
+
+.dentalHight3{
+height:392px;
+
+}
+
+
+}
+
+
+@media (width:853px)
+{
+
+.dentalHight{
+height:290px;
+}
+
+.dentalHight3{
+height:500px;
+
+}
+
+
+}
+
+
+@media (width:800px)
+{
+
+.dentalHight{
+height:290px;
+}
+
+.dentalHight3{
+height:500px;
+
+}
+
+
+}
+
+
+ 
+
+@media (width:1366px)
+{
+
+.dentalHight{
+height:201px;
+}
+
+.dentalHight3{
+height:390px;
+
+}
+
+
+}
+
+
+
+
+

@@ -1,0 +1,1223 @@
+@media (width:768px)
+{
+	
+	
+	.emg h4{
+		font-size:1em;
+		padding-left:0px;
+}
+
+.tele{
+font-size:.75em !important;
+margin-left:-4px;
+text-align:center;
+}
+
+.servicesBox1{
+height:275px !important;
+}
+
+.servicesBox2{
+height:510px !important;
+}
+
+.homePic{
+margin-left:200px;
+}
+
+.news { 
+    width:100% !important;
+}
+
+.bookft{
+margin-left:-20px;
+}
+#diabetesone > li > a {
+    background-color: #e7e7e7 !important;
+}
+#irise > li > a {
+    background-color: #e7e7e7 !important;
+}
+.buy{
+font-size:.86em;
+}
+
+
+pe1{
+font-size:.99em;
+}
+
+.hw1{
+font-size:.89em;
+}
+
+.p1{
+width:50px;
+height:50px;
+margin-right:20px;
+}
+
+.er{
+font-size:.75em;
+padding:10px;
+}
+
+
+.bg{
+background-color:#e7e7e7;
+}
+
+.womenBox{
+height:235px !important;
+}
+
+
+	.testimonialBox{
+	background-color:#e7e7e7;
+	padding:10px;
+	height:290px;
+	margin-bottom:10px;
+}
+	.rslides_tabs.rslides1_tabs {
+    height: 0;
+    position: relative;
+    text-align: center;
+	right:338px;
+	top:-20px;
+	z-index:999999999;
+}
+	
+	
+	.carousel-inner3 .owl-wrapper-outer {
+height: 195px !important;
+}
+	.phncode {
+    left: 16px;
+    position: absolute;
+    top: 280px;
+}
+	.number div .timer {
+    color: #d7df23;
+    font-family: "OpenSans";
+    font-size: 35px;
+    font-weight: normal;
+    margin-top: -10px;
+}
+.number {
+    background: rgba(0, 0, 0, 0) url("../images/parallax/1.jpg") repeat fixed 0 0 / cover ;
+    margin-top: 30px;
+}
+	.parallaxTxt{
+	font-size:.7em;
+}
+
+.profile div {
+    color: #000;
+    font-family: "OpenSans";
+    font-size: 15px;
+    font-weight: normal;
+    padding-top: 2px;}
+
+.video a {
+    
+    margin-left: 190px;
+
+}
+
+.dsktpView{
+	display:block;
+}
+
+
+
+.mobileView{
+	display:none;
+}
+
+
+.popleBox1{
+margin-left:20px;
+}
+
+
+.imgNo1{
+display:none;
+}
+
+.adultsPic1{
+padding-left:336px;
+}
+
+.adultsPic2{
+padding-left:373px;
+}
+
+
+.adultsPic3{
+padding-left:368px;
+margin-top:10px;
+}
+
+.adultsPic4{
+padding-left:338px;
+margin-top:10px;
+}
+
+
+.adultsChild{
+padding-left:326px;
+
+}
+
+.adultsChild2{
+padding-left:325px;
+
+}
+
+.adultsChild3{
+padding-left:296px;
+
+}
+
+.adultsChild4{
+padding-left:262px;
+
+}
+
+.adultsChild5{
+padding-left:298px;
+
+}
+
+
+.adultsChild6{
+padding-left:290px;
+
+}
+
+
+.adultsChild7{
+padding-left:286px;
+
+}
+
+
+.adultsChild8{
+padding-left:453px;
+
+}
+
+
+
+.expertDoctor{
+height:405px;
+}
+
+.coordinatedCare{
+height:405px;
+}
+
+
+
+	
+.day1L{
+line-height:13px;
+}	
+
+	
+	
+	.valueBox{
+	width:50%;
+}
+
+	.height1{
+	width:50%;
+	height:auto;
+	overflow:hidden;
+}
+
+.height2{
+	width:50%;
+	height:auto;
+	overflow:hidden;
+}
+	
+	h1, .h1 {
+	font-size: 55px;
+	padding-left:15px;
+
+}
+h2, .h2 {
+	font-size: 28px;
+	padding-left:15px;
+
+}
+h3, .h3 {
+	font-size: 25px;
+	padding-left:15px;
+}
+h4, .h4 {
+	font-size: 22px;
+	padding-left:15px;
+
+}
+
+
+h5, .h5 {
+	font-size:18px;
+	padding-left:15px;
+
+}
+h6, .h6 {
+	font-size: 15px;
+	padding-left:15px;
+}
+p {
+	font-size: 13px;
+	line-height:1.4em;
+	color: #3f3f3f;
+	font-family: 'OpenSans';
+	text-align:left;
+	margin-bottom:10px;
+	margin-top:13px;
+	padding-left:15px;
+	padding-right:10px;
+    text-align:justify;
+}
+
+
+
+
+
+.pressBox {
+    border: 1px solid #dadada;
+    box-shadow: 1px 1px 5px #858585;
+    height: 365px;
+    padding: 10px;
+}	
+	
+	
+	
+.pWidth{
+	width:100%;
+}
+	
+.boxHeight{
+	height:100px;
+}
+	
+.welnessBox{
+	width:100%;
+	padding:15px;
+	border:#999 1px solid;
+	text-align:center;
+	background-color:#f0f0f0;
+	height:220px;
+
+}	
+	
+	
+	p {
+	text-align:justify;
+}
+	.rightBorder{
+	border-right:none;
+}
+.topbelow
+{
+	height:117px;
+	background:#fff;
+	font-family: 'OpenSans', sans-serif;
+}
+#topmargin{
+	margin-top:350px;
+}
+.bb
+	{
+		width:120px;
+		margin-top:-200px;
+	}
+	
+	.navbar
+{
+	margin-top:-20px;
+}
+
+
+
+.space{
+	width:45%
+}
+
+.scroller {
+    margin-top: 305px;
+    text-align: center;
+}
+
+/*#slideshow{
+	margin-top:70px;
+}
+
+#slideshow2 {
+    position: relative;
+	margin-top:45px;
+}*/
+
+#slideshow2 DIV IMG {
+    width:100%;
+    display: block;
+    border: 0;
+    margin-top:17px;
+}
+
+
+.tabTop{
+	margin-top:10px;
+}
+
+
+/* center page css */
+.mapBanner{
+	width:100%;
+	height:222px;
+}
+.centerGreenBox{
+	
+	height:326px;;
+
+}
+.heart{
+	display:none;
+}
+
+.centerSelectBox{
+	width:100%;
+	
+	font-size:.75em;
+	margin-top:25px;
+}
+/* center page css end */
+
+
+
+/* press corner css end */
+
+.numberRow{
+	height:120px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+
+.numberBoxBorder{	
+	border-bottom:#333 dashed 1px;
+	padding-bottom:15px;
+	height:120px;
+}
+
+
+.retro {
+ /* -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  margin: 0 auto;
+  border: none;*/
+  font: normal 2em/normal "OpenSans", Helvetica, sans-serif;
+  color:#fff;
+  text-align: center;
+  /*text-transform: uppercase;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  text-shadow: 2px 2px 0 rgb(238,238,238) , 4px 4px 0 rgb(112,112,112) ;*/
+}
+
+
+
+.mapBoxShdw{
+	width:450px;
+	margin-left:20px;
+	height:265px;
+	float:left;
+}
+
+.map{
+	border:#999 5px solid;
+}
+
+.mapBox{
+	width:450px;
+	margin-left:20px;
+	height:165px;
+	float:left;
+}
+
+.loginBtn{
+	margin-left:0px;
+}
+.loginTxtBox{
+	width:100%;
+	height:45px;
+	line-height:45px;
+	padding-bottom:8px;
+	padding-right:8px;
+	padding-left:25px;
+	padding-top:8px;
+	box-shadow:none;
+	border:#b1c35c 1px solid;
+}
+
+.loginBoxRow {
+    color: #333;
+    font-family: "OpenSans";
+    font-size: 0.75em;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    width: 100%;
+}
+
+.loginBoxRow2{
+	width:45%;
+	/*float:left;*/
+	margin-bottom:8px;
+	margin-top:8px;
+	font-family:'OpenSans';
+	font-size:.75em;
+	color:#333;
+	margin-left:5px;
+}
+
+
+.gender{
+	margin-left:0px;
+	margin-right:10px;
+}
+
+.btn-left{
+	margin-left:18%;
+}
+.priceBox{
+	background-color:#fff;
+	color:#000;
+	margin-left:0px;
+	margin-right:0px;
+	width:45%;
+	margin:10px;
+	height:auto;
+	overflow:hidden;
+}
+
+
+/* header css */
+
+.headerRow{
+	width:100%;
+	float:left;
+	padding:0px;
+	font-size:.91em;
+	margin-bottom:8px;
+	text-align:center;
+}
+
+.headerBuyBtn{
+	display:none;
+}
+
+.headerIcons{
+	float:left;
+	margin:5px;
+	display:block;
+}
+
+
+.lefticon
+{
+	position:fixed;
+	margin-top:0;
+	z-index:11;
+	display:none;
+}
+
+.lMargin{
+	
+	margin-top:30px;
+	margin-left:-20px;
+}
+
+/* header css end */
+/*
+.righticon
+{
+	z-index:12;
+	position:absolute;
+	right:0px;
+	width:30px;
+	height:150px;
+	margin-top:23px;
+}
+*/
+.sign{
+text-align:justify;
+margin-left:30px;
+
+}
+
+.book{
+margin-top:-12px;
+
+}
+
+.contactColumn1{
+width:100%;
+
+}
+.contactColumn2{
+width:100%;
+
+}
+
+.servicesbox{
+height:1000px;
+}
+
+
+diagnosticsbox{
+height:500px;
+}
+
+.cBox{
+	width:90%;
+	padding:10px;
+	text-align:left;
+	height:240px;
+	margin-top:30px;
+	
+}
+
+.linkBox{
+	padding:10px;
+	height:100px;
+}
+
+.footerBox{
+	
+	padding:10px;
+	width:100%;
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+	height:120px;
+}
+
+	.healthcare-tet{
+margin-top:-2px;
+}
+
+.result{
+margin-left:50px;
+
+}
+
+.resultimg{
+margin-left:140px;
+
+}
+
+.resultimg2{
+margin-left:140px;
+margin-top:-350px;
+}
+
+.result2{
+margin-top:100px;
+margin-left:70px;
+}
+
+
+.resultimg3{
+margin-left:120px;
+margin-top:-20px;
+}
+
+.result3{
+margin-left:50px;
+margin-top:-60px;
+}
+
+
+.resultimg4{
+margin-left:140px;
+margin-top:-390px;
+}
+
+.result4{
+margin-left:50px;
+margin-top:100px;
+}
+
+.pagebox{
+	width:100%;
+	padding:5px;
+	text-align:left;
+	font-family:'OpenSans';
+	color:#fff;
+	font-size:.95em;
+}
+
+.dentalBox{
+	width:100%;
+	height:auto;
+	overflow:hidden;
+	padding:25px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+
+
+.sFooterBox{
+	padding:20px;
+	text-align:center;
+	font-family:'OpenSans';
+	color:#fff;
+	font-size:2em;
+	margin-bottom:20px;
+	height:155px;
+}
+
+.sideBox{
+	width:100%;
+	padding:5px;
+	font-family: 'OpenSans';
+	font-size:1.3em;
+	margin-bottom:10px;
+	float:left;
+	color:#333;
+	height:250px;
+}
+
+
+.flowImg1{
+display:block;
+
+}
+
+.flowImg2{
+display:none;
+
+}
+
+
+}
+
+
+
+@media (width:1024px)
+{
+
+
+.teleH{
+height:200px;
+}
+
+
+.servicesBox2{
+height:390px !important;
+}
+
+
+.womenBox{
+height:235px !important;
+}
+
+.servicesBox1{
+height:275px !important;
+}
+
+.bbb{
+	background-color:#e7e7e7 !important;
+}
+#diabetesone > li > a {
+    background-color: #e7e7e7 !important;
+}
+#irise > li > a {
+    background-color: #e7e7e7 !important;
+}
+
+.news2 { 
+    width:100%;
+}
+
+
+.one{margin-top:-7px !important}
+
+.homeimg1{
+margin-right:0 !important;
+}
+
+.doctorBox {
+    height: auto !important;
+}
+
+	.doctorBoxPic{
+	margin-right:15px;
+	 margin-top:15px;
+	 border:#fff solid 3px;
+	 width:120px;
+	 
+	}
+	.rslides_tabs.rslides1_tabs {
+    height: 0;
+    position: relative;
+    text-align: center;
+	right:460px;
+	top:-20px;
+	z-index:999999999;
+}
+	.video a {
+    
+    margin-left: 10px;
+	top:123px;
+
+}
+	
+.profile p.tt
+{
+	font-family: 'OpenSans', sans-serif;
+	font-size:12px;
+	text-align:justify;
+	margin-top:13px;
+}
+
+	
+.dsktpView{
+	display:block;
+}
+
+
+
+.mobileView{
+	display:none;
+}
+
+.adultsPic1{
+padding-left:600px;
+
+}
+
+.adultsPic2{
+padding-left:570px;
+
+}
+
+
+.adultsPic3{
+padding-left:653px;
+
+}
+
+.adultsPic4{
+padding-left:620px;
+margin-top:10px;
+}
+
+
+.adultsChild{
+padding-left:706px;
+
+}
+
+.adultsChild2{
+padding-left:640px;
+
+}
+
+.adultsChild3{
+padding-left:732px;
+
+}
+
+.adultsChild4{
+padding-left:666px;
+
+}
+
+.adultsChild5{
+padding-left:692px;
+
+}
+
+
+.adultsChild6{
+padding-left:630px;
+
+}
+
+
+.adultsChild7{
+padding-left:729px;
+
+}
+
+
+.adultsChild8{
+padding-left:671px;
+
+}
+
+
+
+
+
+
+
+
+.coordinatedCare{
+height:300px;
+}
+
+
+.expertDoctor{
+height:300px;
+
+}
+
+
+
+	p {
+	text-align:justify;
+}
+	.rightBorder{
+	border-right:none;
+}
+.topbelow
+{
+	height:140px;
+	background:#fff;
+	font-family: 'OpenSans', sans-serif;
+}
+
+
+
+#topmargin{
+	margin-top:68px;
+}
+
+.indexDevider{
+	background-image:none;
+	background-repeat:no-repeat;
+	background-position:right;
+}
+
+
+.bb
+	{
+		width:120px;
+		margin-top:-200px;
+	}
+	
+	.navbar
+{
+	margin-top:-20px;
+}
+
+.scroller {
+    margin-top: 343px;
+    text-align: center;
+}
+
+.space{
+	width:45%
+}
+
+
+
+#slideshow2 DIV IMG {
+    width:100%;
+    display: block;
+    border: 0;
+    margin-top:17px;
+}
+
+
+
+
+/* center page css */
+.mapBanner{
+	width:100%;
+	height:222px;
+}
+.centerGreenBox{
+	
+	height:326px;;
+
+}
+.heart{
+	display:none;
+}
+
+.centerSelectBox{
+	width:100%;
+	
+	font-size:.75em;
+	margin-top:25px;
+}
+/* center page css end */
+
+
+
+/* press corner css end */
+
+.numberRow{
+	height:120px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+
+.numberBoxBorder{	
+	border-bottom:#333 dashed 1px;
+	padding-bottom:15px;
+	height:120px;
+}
+
+
+.numberBox{
+
+}
+.retro {
+ /* -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  margin: 0 auto;
+  border: none;*/
+  font: normal 2em/normal "OpenSans", Helvetica, sans-serif;
+  color:#fff;
+  text-align: center;
+  /*text-transform: uppercase;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  text-shadow: 2px 2px 0 rgb(238,238,238) , 4px 4px 0 rgb(112,112,112) ;*/
+}
+
+
+
+.mapBoxShdw{
+	width:450px;
+	margin-left:20px;
+	height:265px;
+	float:left;
+}
+
+.map{
+	border:#999 5px solid;
+}
+
+.mapBox{
+	width:450px;
+	margin-left:20px;
+	height:165px;
+	float:left;
+}
+
+.loginBtn{
+	margin-left:0px;
+}
+.loginTxtBox{
+	width:100%;
+	height:45px;
+	line-height:45px;
+	padding-bottom:8px;
+	padding-right:8px;
+	padding-left:25px;
+	padding-top:8px;
+	box-shadow:none;
+	border:#b1c35c 1px solid;
+}
+
+.loginBoxRow2{
+	width:45%;
+	/*float:left;*/
+	margin-bottom:8px;
+	margin-top:8px;
+	font-family:'OpenSans';
+	font-size:.85em;
+	color:#333;
+	margin-left:5px;
+}
+
+
+.gender{
+	margin-left:0px;
+	margin-right:10px;
+}
+
+.btn-left{
+	margin-left:18%;
+}
+.priceBox{
+	background-color:#fff;
+	color:#000;
+	margin-left:0px;
+	margin-right:0px;
+	width:45%;
+	margin:10px;
+	height:auto;
+	overflow:hidden;
+}
+
+.lefticon
+{
+	position:fixed;
+	margin-top:30px;
+	z-index:11;
+}
+
+.righticon
+{
+	z-index:12;
+	position:absolute;
+	right:0px;
+	width:30px;
+	height:150px;
+	margin-top:70px;
+}
+
+.sign{
+text-align:justify;
+margin-left:30px;
+
+}
+
+.book{
+margin-top:-12px;
+
+}
+
+.contactColumn1{
+width:100%;
+
+}
+.contactColumn2{
+width:100%;
+
+}
+
+.servicesbox{
+height:1000px;
+}
+
+
+diagnosticsbox{
+height:500px;
+}
+
+.cBox{
+	width:90%;
+	padding:10px;
+	text-align:left;
+	height:260px;
+	margin-top:30px;
+	
+}
+
+.linkBox{
+	padding:10px;
+	height:100px;
+}
+
+.footerBox{
+	
+	padding:10px;
+	width:100%;
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+	height:120px;
+}
+
+	.healthcare-tet{
+margin-top:-2px;
+}
+
+.result{
+margin-left:50px;
+
+}
+
+.resultimg{
+margin-left:140px;
+
+}
+
+.resultimg2{
+margin-left:140px;
+margin-top:-350px;
+}
+
+.result2{
+margin-top:100px;
+margin-left:70px;
+}
+
+
+.resultimg3{
+margin-left:120px;
+margin-top:-20px;
+}
+
+.result3{
+margin-left:50px;
+margin-top:-60px;
+}
+
+
+.resultimg4{
+margin-left:140px;
+margin-top:-390px;
+}
+
+.result4{
+margin-left:50px;
+margin-top:100px;
+}
+
+.pagebox{
+	width:100%;
+	height:52px;
+	padding:5px;
+	text-align:center;
+	font-family:'OpenSans';
+	color:#fff;
+	font-size:1.3em;
+}
+
+.dentalBox{
+	width:100%;
+	height:auto;
+	overflow:hidden;
+	padding:25px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+
+
+.sFooterBox{
+	padding:20px;
+	text-align:center;
+	font-family:'OpenSans';
+	color:#fff;
+	font-size:2em;
+	margin-bottom:20px;
+	height:155px;
+}
+
+
+.flowImg1{
+display:block;
+
+}
+
+.flowImg2{
+display:none;
+
+}
+
+}
+
